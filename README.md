@@ -19,8 +19,7 @@ Development Process
 The application was designed and developed through all phases, including project planning, architecture, implementation, and testing. Real-time user feedback was incorporated during testing to refine and enhance the user interface and functionality. The result is a highly functional, gesture-controlled, and voice-assisted system designed to improve accessibility, productivity, and user experience.
 
 Installation and Setup
-Clone the repository:
-git clone https://github.com/yourusername/MindFlow-VoxAssist-WebNav.git
+Clone the repository
 Install dependencies:
 pip install -r requirements.txt
 Run the application:
