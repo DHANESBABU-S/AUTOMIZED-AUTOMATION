@@ -1,0 +1,56 @@
+{
+  "questions": [
+    {
+      "question": "What is your question?",
+      "answer": "This is the answer."
+    },
+    {
+      "question": "hellow",
+      "answer": "hi"
+    },
+    {
+      "question": "hi",
+      "answer": "hellow"
+    },
+    {
+      "question": "how are you",
+      "answer": "i am fine dude"
+    },
+    {
+      "question": "and",
+      "answer": "oo"
+    },
+    {
+      "question": "is",
+      "answer": "name"
+    },
+    {
+      "question": "name",
+      "answer": "is"
+    },
+    {
+      "question": "car",
+      "answer": "car is an vehicale"
+    },
+    {
+      "question": "dhanes",
+      "answer": "this is my boss"
+    },
+    {
+      "question": "epdi eruka",
+      "answer": "nala erugen"
+    },
+    {
+      "question": "apple",
+      "answer": "this is an fruit"
+    },
+    {
+      "question": "mythily",
+      "answer": "she is your friend"
+    },
+    {
+      "question": "dd",
+      "answer": "dhanes"
+    }
+  ]
+}
